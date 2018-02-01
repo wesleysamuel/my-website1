@@ -1,6 +1,3 @@
 # my-website1
 
-
-#more tweeks to read me
-
-#updated locally
+Update made on master before rebase
