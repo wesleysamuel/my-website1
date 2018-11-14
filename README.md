@@ -2,4 +2,3 @@
 
 Update made on master before rebase
 
-Sunny Leone
